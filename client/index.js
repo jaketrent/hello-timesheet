@@ -1,0 +1,4 @@
+const React = require('react')
+var App = require('./app')
+
+React.render(<App />, document.body);
